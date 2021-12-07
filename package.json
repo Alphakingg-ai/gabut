@@ -1,0 +1,27 @@
+{
+  "name": "theodorickalfaweb",
+  "version": "1.0.0",
+  "description": "My Website Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "website",
+    "project",
+    "tesprojek",
+    "gabut"
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "chalk": "^4.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "ssl-express-www": "^3.0.7",
+  },
+}
