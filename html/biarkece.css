@@ -1,0 +1,32 @@
+
+nav {
+background: #0D6EFD;
+height: 80px;
+width: 100%;
+}
+label.logo {
+color: white;
+font-size: 30px;
+line-height: 80px;
+padding: 0 100px;
+font-weight: bold;
+}
+nav ul {
+float: right;
+margin-right: 30px;
+}
+nav ul li {
+display: inline-block;
+line-height: 80px;
+margin: 0 5px;
+}
+.navlink {
+color: white;
+padding: 7px 13px;
+font-size: 17px;
+border-radius: 3px;
+text-transform: uppercase;
+}
+.active {
+background: #0057D8;
+}

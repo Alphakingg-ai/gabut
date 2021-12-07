@@ -1,0 +1,13 @@
+#player
+input[type="image"]
+{
+ height:50px;
+ margin-left:2px;
+ margin-right:5px;
+ margin-top:2px;
+}
+
+#volume
+{
+  border-radius:0%;
+}
